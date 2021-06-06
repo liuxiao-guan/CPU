@@ -1,0 +1,309 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/MIPS/SingleCpu
+T_opt
+!s110 1619701784
+V_5ER4jP>?LFEQR][An:Dn3
+04 7 4 work mips_tb fast 0
+=1-a86daa25e75c-608ab018-51-d50
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+vALU
+Z1 !s110 1619701764
+!i10b 1
+!s100 cXGzaNK5Nk_iR1V[]`>T`1
+I]oD1[bKWkhJ`_MJojelZ23
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1610334804
+8C:/project/MIPS/SingleCpu/ALU.v
+FC:/project/MIPS/SingleCpu/ALU.v
+Z3 L0 21
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1619701764.857000
+!s107 C:/project/MIPS/SingleCpu/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/ALU.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u
+vController
+Z6 !s110 1619701765
+!i10b 1
+!s100 mQ?MC0[kTh`PL@je:?TPB3
+I4R0A5H<^zD6ab]i2EdGQ?2
+R2
+R0
+w1619694072
+8C:/project/MIPS/SingleCpu/Controller.v
+FC:/project/MIPS/SingleCpu/Controller.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701764.983000
+!s107 C:/project/MIPS/SingleCpu/Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/Controller.v|
+!i113 0
+R5
+n@controller
+vdatapath
+R6
+!i10b 1
+!s100 QDdK;zJGTDRBHBF`2VH332
+InMFGcM0KX]UZMVW[MjSi;0
+R2
+R0
+w1619694682
+8C:\project\MIPS\SingleCpu\datapath.v
+FC:\project\MIPS\SingleCpu\datapath.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701765.083000
+!s107 C:\project\MIPS\SingleCpu\datapath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\project\MIPS\SingleCpu\datapath.v|
+!i113 0
+R5
+vDM
+R6
+!i10b 1
+!s100 S59mzAFa?O@D8gMdDROS]0
+IV>1B>0hTA@KS0]bm4TM3h2
+R2
+R0
+w1619701009
+8C:/project/MIPS/SingleCpu/DM.v
+FC:/project/MIPS/SingleCpu/DM.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701765.177000
+!s107 C:/project/MIPS/SingleCpu/DM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/DM.v|
+!i113 0
+R5
+n@d@m
+vEXT
+R6
+!i10b 1
+!s100 Mo^?ZjaL@m=Xld69U]khJ1
+I1c1gGE4^28QgAeNNZHPHK2
+R2
+R0
+w1511963594
+8C:/project/MIPS/SingleCpu/EXT.v
+FC:/project/MIPS/SingleCpu/EXT.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701765.270000
+!s107 C:/project/MIPS/SingleCpu/EXT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/EXT.v|
+!i113 0
+R5
+n@e@x@t
+vGRF
+R6
+!i10b 1
+!s100 8iecoab7:KMh_BFSzTWBb2
+I:Cz:dAGW9GHSTFKQ9>eoO2
+R2
+R0
+w1610552093
+8C:/project/MIPS/SingleCpu/GRF.v
+FC:/project/MIPS/SingleCpu/GRF.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701765.380000
+!s107 C:/project/MIPS/SingleCpu/GRF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/GRF.v|
+!i113 0
+R5
+n@g@r@f
+vIM
+R6
+!i10b 1
+!s100 MUUGbXM>a4dUEOGdI5aWU3
+IC<G2m6@2G1dhiFf2DCO1V1
+R2
+R0
+Z7 w1619701755
+Z8 8C:/project/MIPS/SingleCpu/IFU.v
+Z9 FC:/project/MIPS/SingleCpu/IFU.v
+L0 43
+R4
+r1
+!s85 0
+31
+Z10 !s108 1619701765.474000
+Z11 !s107 C:/project/MIPS/SingleCpu/IFU.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/IFU.v|
+!i113 0
+R5
+n@i@m
+vmips
+R6
+!i10b 1
+!s100 >U1jmKo6?jJkkXFG0jIn33
+I>jdAdHCUMYz79F[XX=3_83
+R2
+R0
+w1619694770
+8C:/project/MIPS/SingleCpu/mips.v
+FC:/project/MIPS/SingleCpu/mips.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1619701765.583000
+!s107 C:/project/MIPS/SingleCpu/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/mips.v|
+!i113 0
+R5
+vmips_tb
+R6
+!i10b 1
+!s100 2nR;`5Q@ZV458<1POQYmM3
+Iz[c;ah_4JG=SHmXJFX:=U3
+R2
+R0
+w1610541830
+8C:/project/MIPS/SingleCpu/mips_tb.v
+FC:/project/MIPS/SingleCpu/mips_tb.v
+L0 25
+R4
+r1
+!s85 0
+31
+!s108 1619701765.769000
+!s107 C:/project/MIPS/SingleCpu/mips_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/mips_tb.v|
+!i113 0
+R5
+vMUX2to1
+R1
+!i10b 1
+!s100 edcXGR14^n:=T6o]C9TmA3
+I35IoM6coP4RJ6MWKF=6bX0
+R2
+R0
+Z13 w1619694650
+Z14 8C:/project/MIPS/SingleCpu/MUX.v
+Z15 FC:/project/MIPS/SingleCpu/MUX.v
+R3
+R4
+r1
+!s85 0
+31
+Z16 !s108 1619701764.731000
+Z17 !s107 C:/project/MIPS/SingleCpu/MUX.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/project/MIPS/SingleCpu/MUX.v|
+!i113 0
+R5
+n@m@u@x2to1
+vMUX3to1
+R1
+!i10b 1
+!s100 a8A_6`7lHoz;cil?3Gaj`0
+ICh;Cf;][E6Yb6KL@X3]`i0
+R2
+R0
+R13
+R14
+R15
+L0 44
+R4
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R5
+n@m@u@x3to1
+vMUX4to1
+R1
+!i10b 1
+!s100 mNC<^@15XFDZi;X[XD4221
+IfRgA_5ZhWW_OIQC7V1obW2
+R2
+R0
+R13
+R14
+R15
+L0 69
+R4
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R5
+n@m@u@x4to1
+vMUX5to1
+R1
+!i10b 1
+!s100 BCObHW8N5@dX>d:`05BiT1
+IEa_[ZWZmiBYJKIBLzmc4Z0
+R2
+R0
+R13
+R14
+R15
+L0 95
+R4
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R5
+n@m@u@x5to1
+vPC
+R6
+!i10b 1
+!s100 Yz<PjfW_9CNGGb@U<fF;G1
+IlW[EAD0h]m26n_ckVh>[j0
+R2
+R0
+R7
+R8
+R9
+R3
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R5
+n@p@c
